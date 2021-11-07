@@ -4,7 +4,20 @@
     // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        
+        {
+            "type": "java",
+            "name": "Launch IfJava",
+            "request": "launch",
+            "mainClass": "IfJava",
+            "projectName": "Practice_Java_13802c30"
+        },
+        {
+            "type": "java",
+            "name": "Launch If_Java",
+            "request": "launch",
+            "mainClass": "If_Java",
+            "projectName": "Practice_Java_13802c30"
+        },
         {
             "type": "java",
             "name": "Launch Current File",

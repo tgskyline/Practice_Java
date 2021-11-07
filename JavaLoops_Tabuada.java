@@ -1,6 +1,3 @@
-import java.util.ArrayList;
-import java.util.Scanner;
-
 public class JavaLoops_Tabuada {
   public static void main(String[] args) {
             
