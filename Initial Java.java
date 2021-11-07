@@ -1,6 +1,3 @@
-import java.util.Scanner;
-import java.ArrayList;
-
 class Main {
 
     final static double PI = 3.14;
