@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch JavaArrays",
+            "request": "launch",
+            "mainClass": "JavaArrays",
+            "projectName": "Practice_Java_13802c30"
+        },
+        {
+            "type": "java",
             "name": "Launch IfJava",
             "request": "launch",
             "mainClass": "IfJava",
