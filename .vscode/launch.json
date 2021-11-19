@@ -6,10 +6,9 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Launch JavaArrays",
+            "name": "Launch Current File",
             "request": "launch",
-            "mainClass": "JavaArrays",
-            "projectName": "Practice_Java_13802c30"
+            "mainClass": "${file}"
         },
         {
             "type": "java",
@@ -20,22 +19,51 @@
         },
         {
             "type": "java",
-            "name": "Launch If_Java",
+            "name": "Launch JavaAplicationClass$Main",
             "request": "launch",
-            "mainClass": "If_Java",
+            "mainClass": "JavaAplicationClass$Main",
             "projectName": "Practice_Java_13802c30"
         },
         {
             "type": "java",
-            "name": "Launch Current File",
+            "name": "Launch JavaArrays",
             "request": "launch",
-            "mainClass": "${file}"
+            "mainClass": "JavaArrays",
+            "projectName": "Practice_Java_13802c30"
         },
         {
             "type": "java",
-            "name": "Launch Main",
+            "name": "Launch JavaFunctionsProcedures",
             "request": "launch",
-            "mainClass": "Main",
+            "mainClass": "JavaFunctionsProcedures",
+            "projectName": "Practice_Java_13802c30"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaList",
+            "request": "launch",
+            "mainClass": "JavaList",
+            "projectName": "Practice_Java_13802c30"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaLoops_Tabuada",
+            "request": "launch",
+            "mainClass": "JavaLoops_Tabuada",
+            "projectName": "Practice_Java_13802c30"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaVector",
+            "request": "launch",
+            "mainClass": "JavaVector",
+            "projectName": "Practice_Java_13802c30"
+        },
+        {
+            "type": "java",
+            "name": "Launch SwitchWithJava",
+            "request": "launch",
+            "mainClass": "SwitchWithJava",
             "projectName": "Practice_Java_13802c30"
         }
     ]
